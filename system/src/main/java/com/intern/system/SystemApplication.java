@@ -8,13 +8,12 @@ import org.springframework.cache.annotation.EnableCaching;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.data.redis.core.StringRedisTemplate;
 import org.springframework.web.servlet.config.annotation.EnableWebMvc;
+import springfox.documentation.oas.annotations.EnableOpenApi;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 @SpringBootApplication(scanBasePackages = {"com.intern.*"})
 @MapperScan("com.intern.common.mapper")
-@EnableWebMvc
-@EnableSwagger2
-@EnableCaching
+@EnableOpenApi
 public class SystemApplication {
     @Autowired
     private StringRedisTemplate stringRedisTemplate;
