@@ -1,6 +1,7 @@
 package com.intern.logging.service.Impl;
 
 import com.intern.common.dao.pojo.JsonResult;
+import com.intern.common.dao.pojo.SystemLog;
 import com.intern.common.dao.pojo.UserProfile;
 import com.intern.common.mapper.LoggingMapper;
 import com.intern.logging.service.LoggingService;
@@ -14,11 +15,12 @@ public class LoggingServiceImpl implements LoggingService {
     LoggingMapper loggingMapper;
 
     @Override
-    public JsonResult logging(UserProfile userProfile) {
-        if (loggingMapper.logging(userProfile)!=0) {
-            return JsonResult.success(userProfile);
-        }else{
-            return JsonResult.fail(HttpStatus.INTERNAL_SERVER_ERROR.value(), HttpStatus.INTERNAL_SERVER_ERROR.getReasonPhrase());
-        }
+    public void insertSystemLog(SystemLog systemLog) {
+        loggingMapper.insertSystemLog(systemLog);
+    }
+
+    @Override
+    public void insertExceptionLog(SystemLog systemLog) {
+        loggingMapper.insertExceptionLog(systemLog);
     }
 }

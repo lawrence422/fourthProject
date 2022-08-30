@@ -6,7 +6,7 @@
         <groupId>com.intern</groupId>
         <artifactId>fourthProject</artifactId>
         <version>0.0.1-SNAPSHOT</version>
-        <relativePath/> <!-- lookup parent from repository -->
+        <relativePath>../pom.xml</relativePath> <!-- lookup parent from repository -->
     </parent>
 
     <artifactId>common</artifactId>
@@ -30,10 +30,6 @@
             <version>2.2.2</version>
         </dependency>
 
-        <dependency>
-            <groupId>com.intern</groupId>
-            <artifactId>common</artifactId>
-        </dependency>
     </dependencies>
 
 
