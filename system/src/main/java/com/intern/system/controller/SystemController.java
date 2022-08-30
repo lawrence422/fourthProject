@@ -43,6 +43,7 @@ public class SystemController {
      * @return
      */
     @PostMapping("/redis")
+    @SystemLogger()
     public JsonResult redis(String key,String value){
         redisUtil.setString(key,value);
         return JsonResult.success("redis");
