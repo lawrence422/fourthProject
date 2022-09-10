@@ -14,7 +14,7 @@ public class RestExceptionHandler {
     @ExceptionHandler
     @ResponseStatus(HttpStatus.INTERNAL_SERVER_ERROR)
     public JsonResult<String> exception(Exception e){
-        logger.error("Error");
+        logger.error(e.getMessage());
         return JsonResult.fail(HttpStatus.INTERNAL_SERVER_ERROR.value(), e.getMessage());
 
     }

@@ -1,8 +1,7 @@
 package com.intern.common.mapper.Sql;
 
 
-import com.intern.common.dao.pojo.SystemLog;
-import com.intern.common.dao.pojo.UserProfile;
+import com.intern.common.dao.SystemLog;
 import org.apache.ibatis.jdbc.SQL;
 
 public class LoggingMapperSql {

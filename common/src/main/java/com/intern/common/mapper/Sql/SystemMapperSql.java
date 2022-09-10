@@ -1,6 +1,6 @@
 package com.intern.common.mapper.Sql;
 
-import com.intern.common.dao.pojo.UserProfile;
+import com.intern.common.dao.UserProfile;
 import org.apache.ibatis.jdbc.SQL;
 
 public class SystemMapperSql {

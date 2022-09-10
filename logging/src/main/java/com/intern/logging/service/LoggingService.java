@@ -1,8 +1,6 @@
 package com.intern.logging.service;
 
-import com.intern.common.dao.pojo.JsonResult;
-import com.intern.common.dao.pojo.SystemLog;
-import com.intern.common.dao.pojo.UserProfile;
+import com.intern.common.dao.SystemLog;
 
 public interface LoggingService {
     void insertSystemLog(SystemLog systemLog);

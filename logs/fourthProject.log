@@ -1,0 +1,117 @@
+2022-08-28 18:06:41.000 INFO  restartedMain [com.intern.system.SystemApplication:?]-Starting SystemApplication using Java 1.8.0_312 on MSI with PID 10076 (D:\program\intern\fourthProject\system\target\classes started by lo2 in D:\program\intern\fourthProject)
+2022-08-28 18:06:41.001 INFO  restartedMain [com.intern.system.SystemApplication:?]-The following 1 profile is active: "common"
+2022-08-28 18:06:41.045 INFO  restartedMain [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:?]-Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-08-28 18:06:41.045 INFO  restartedMain [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:?]-For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-08-28 18:06:41.713 INFO  restartedMain [org.springframework.data.repository.config.RepositoryConfigurationDelegate:?]-Multiple Spring Data modules found, entering strict repository configuration mode
+2022-08-28 18:06:41.715 INFO  restartedMain [org.springframework.data.repository.config.RepositoryConfigurationDelegate:?]-Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-08-28 18:06:41.729 INFO  restartedMain [org.springframework.data.repository.config.RepositoryConfigurationDelegate:?]-Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2022-08-28 18:06:42.159 INFO  restartedMain [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:?]-Tomcat initialized with port(s): 2001 (http)
+2022-08-28 18:06:42.165 INFO  restartedMain [org.apache.catalina.core.StandardService:?]-Starting service [Tomcat]
+2022-08-28 18:06:42.166 INFO  restartedMain [org.apache.catalina.core.StandardEngine:?]-Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-08-28 18:06:42.232 INFO  restartedMain [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:?]-Initializing Spring embedded WebApplicationContext
+2022-08-28 18:06:42.232 INFO  restartedMain [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:?]-Root WebApplicationContext: initialization completed in 1187 ms
+2022-08-28 18:06:42.888 INFO  restartedMain [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer:?]-LiveReload server is running on port 35729
+2022-08-28 18:06:42.942 INFO  restartedMain [jdbc.audit:?]-null. DataSource.isWrapperFor(interface com.zaxxer.hikari.HikariConfigMXBean) returned 
+2022-08-28 18:06:42.942 INFO  restartedMain [jdbc.audit:?]-null. DataSource.unwrap(interface com.zaxxer.hikari.HikariConfigMXBean) returned 
+2022-08-28 18:06:43.072 INFO  restartedMain [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:?]-Tomcat started on port(s): 2001 (http) with context path ''
+2022-08-28 18:06:43.243 INFO  restartedMain [com.intern.system.SystemApplication:?]-Started SystemApplication in 2.538 seconds (JVM running for 3.487)
+2022-08-28 18:07:15.464 INFO  restartedMain [com.intern.system.SystemApplication:?]-Starting SystemApplication using Java 1.8.0_312 on MSI with PID 13520 (D:\program\intern\fourthProject\system\target\classes started by lo2 in D:\program\intern\fourthProject)
+2022-08-28 18:07:15.465 INFO  restartedMain [com.intern.system.SystemApplication:?]-The following 1 profile is active: "common"
+2022-08-28 18:07:15.510 INFO  restartedMain [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:?]-Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-08-28 18:07:15.511 INFO  restartedMain [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:?]-For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-08-28 18:07:16.268 INFO  restartedMain [org.springframework.data.repository.config.RepositoryConfigurationDelegate:?]-Multiple Spring Data modules found, entering strict repository configuration mode
+2022-08-28 18:07:16.270 INFO  restartedMain [org.springframework.data.repository.config.RepositoryConfigurationDelegate:?]-Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-08-28 18:07:16.287 INFO  restartedMain [org.springframework.data.repository.config.RepositoryConfigurationDelegate:?]-Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2022-08-28 18:07:16.744 INFO  restartedMain [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:?]-Tomcat initialized with port(s): 2001 (http)
+2022-08-28 18:07:16.750 INFO  restartedMain [org.apache.catalina.core.StandardService:?]-Starting service [Tomcat]
+2022-08-28 18:07:16.751 INFO  restartedMain [org.apache.catalina.core.StandardEngine:?]-Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-08-28 18:07:16.816 INFO  restartedMain [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:?]-Initializing Spring embedded WebApplicationContext
+2022-08-28 18:07:16.816 INFO  restartedMain [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:?]-Root WebApplicationContext: initialization completed in 1305 ms
+2022-08-28 18:07:17.460 INFO  restartedMain [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer:?]-LiveReload server is running on port 35729
+2022-08-28 18:07:17.507 INFO  restartedMain [jdbc.audit:?]-null. DataSource.isWrapperFor(interface com.zaxxer.hikari.HikariConfigMXBean) returned 
+2022-08-28 18:07:17.507 INFO  restartedMain [jdbc.audit:?]-null. DataSource.unwrap(interface com.zaxxer.hikari.HikariConfigMXBean) returned 
+2022-08-28 18:07:17.640 INFO  restartedMain [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:?]-Tomcat started on port(s): 2001 (http) with context path ''
+2022-08-28 18:07:17.802 INFO  restartedMain [com.intern.system.SystemApplication:?]-Started SystemApplication in 2.635 seconds (JVM running for 3.578)
+2022-08-28 18:14:04.555 INFO  restartedMain [com.intern.system.SystemApplication:?]-Starting SystemApplication using Java 1.8.0_312 on MSI with PID 26172 (D:\program\intern\fourthProject\system\target\classes started by lo2 in D:\program\intern\fourthProject)
+2022-08-28 18:14:04.557 INFO  restartedMain [com.intern.system.SystemApplication:?]-The following 1 profile is active: "common"
+2022-08-28 18:14:04.596 INFO  restartedMain [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:?]-Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-08-28 18:14:04.596 INFO  restartedMain [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:?]-For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-08-28 18:14:05.251 INFO  restartedMain [org.springframework.data.repository.config.RepositoryConfigurationDelegate:?]-Multiple Spring Data modules found, entering strict repository configuration mode
+2022-08-28 18:14:05.253 INFO  restartedMain [org.springframework.data.repository.config.RepositoryConfigurationDelegate:?]-Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-08-28 18:14:05.267 INFO  restartedMain [org.springframework.data.repository.config.RepositoryConfigurationDelegate:?]-Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2022-08-28 18:14:05.679 INFO  restartedMain [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:?]-Tomcat initialized with port(s): 2001 (http)
+2022-08-28 18:14:05.686 INFO  restartedMain [org.apache.catalina.core.StandardService:?]-Starting service [Tomcat]
+2022-08-28 18:14:05.686 INFO  restartedMain [org.apache.catalina.core.StandardEngine:?]-Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-08-28 18:14:05.750 INFO  restartedMain [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:?]-Initializing Spring embedded WebApplicationContext
+2022-08-28 18:14:05.750 INFO  restartedMain [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:?]-Root WebApplicationContext: initialization completed in 1153 ms
+2022-08-28 18:14:06.325 INFO  restartedMain [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer:?]-LiveReload server is running on port 35729
+2022-08-28 18:14:06.367 INFO  restartedMain [jdbc.audit:?]-null. DataSource.isWrapperFor(interface com.zaxxer.hikari.HikariConfigMXBean) returned 
+2022-08-28 18:14:06.367 INFO  restartedMain [jdbc.audit:?]-null. DataSource.unwrap(interface com.zaxxer.hikari.HikariConfigMXBean) returned 
+2022-08-28 18:14:06.490 INFO  restartedMain [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:?]-Tomcat started on port(s): 2001 (http) with context path ''
+2022-08-28 18:14:06.646 INFO  restartedMain [com.intern.system.SystemApplication:?]-Started SystemApplication in 2.379 seconds (JVM running for 3.308)
+2022-08-28 18:20:35.644 INFO  restartedMain [com.intern.system.SystemApplication:?]-Starting SystemApplication using Java 1.8.0_312 on MSI with PID 13164 (D:\program\intern\fourthProject\system\target\classes started by lo2 in D:\program\intern\fourthProject)
+2022-08-28 18:20:35.645 INFO  restartedMain [com.intern.system.SystemApplication:?]-The following 1 profile is active: "common"
+2022-08-28 18:20:35.688 INFO  restartedMain [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:?]-Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-08-28 18:20:35.688 INFO  restartedMain [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:?]-For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-08-28 18:20:36.327 INFO  restartedMain [org.springframework.data.repository.config.RepositoryConfigurationDelegate:?]-Multiple Spring Data modules found, entering strict repository configuration mode
+2022-08-28 18:20:36.329 INFO  restartedMain [org.springframework.data.repository.config.RepositoryConfigurationDelegate:?]-Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-08-28 18:20:36.342 INFO  restartedMain [org.springframework.data.repository.config.RepositoryConfigurationDelegate:?]-Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2022-08-28 18:20:36.842 INFO  restartedMain [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:?]-Tomcat initialized with port(s): 2001 (http)
+2022-08-28 18:20:36.850 INFO  restartedMain [org.apache.catalina.core.StandardService:?]-Starting service [Tomcat]
+2022-08-28 18:20:36.850 INFO  restartedMain [org.apache.catalina.core.StandardEngine:?]-Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-08-28 18:20:36.926 INFO  restartedMain [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:?]-Initializing Spring embedded WebApplicationContext
+2022-08-28 18:20:36.927 INFO  restartedMain [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:?]-Root WebApplicationContext: initialization completed in 1238 ms
+2022-08-28 18:20:37.610 INFO  restartedMain [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer:?]-LiveReload server is running on port 35729
+2022-08-28 18:20:37.658 INFO  restartedMain [jdbc.audit:?]-null. DataSource.isWrapperFor(interface com.zaxxer.hikari.HikariConfigMXBean) returned 
+2022-08-28 18:20:37.658 INFO  restartedMain [jdbc.audit:?]-null. DataSource.unwrap(interface com.zaxxer.hikari.HikariConfigMXBean) returned 
+2022-08-28 18:20:37.797 INFO  restartedMain [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:?]-Tomcat started on port(s): 2001 (http) with context path ''
+2022-08-28 18:20:37.967 INFO  restartedMain [com.intern.system.SystemApplication:?]-Started SystemApplication in 2.614 seconds (JVM running for 3.586)
+2022-08-28 18:21:43.711 INFO  restartedMain [com.intern.system.SystemApplication:?]-Starting SystemApplication using Java 1.8.0_312 on MSI with PID 24452 (D:\program\intern\fourthProject\system\target\classes started by lo2 in D:\program\intern\fourthProject)
+2022-08-28 18:21:43.712 INFO  restartedMain [com.intern.system.SystemApplication:?]-The following 1 profile is active: "common"
+2022-08-28 18:21:43.755 INFO  restartedMain [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:?]-Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-08-28 18:21:43.755 INFO  restartedMain [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:?]-For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-08-28 18:21:44.393 INFO  restartedMain [org.springframework.data.repository.config.RepositoryConfigurationDelegate:?]-Multiple Spring Data modules found, entering strict repository configuration mode
+2022-08-28 18:21:44.395 INFO  restartedMain [org.springframework.data.repository.config.RepositoryConfigurationDelegate:?]-Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-08-28 18:21:44.409 INFO  restartedMain [org.springframework.data.repository.config.RepositoryConfigurationDelegate:?]-Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2022-08-28 18:21:44.858 INFO  restartedMain [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:?]-Tomcat initialized with port(s): 2001 (http)
+2022-08-28 18:21:44.866 INFO  restartedMain [org.apache.catalina.core.StandardService:?]-Starting service [Tomcat]
+2022-08-28 18:21:44.867 INFO  restartedMain [org.apache.catalina.core.StandardEngine:?]-Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-08-28 18:21:44.947 INFO  restartedMain [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:?]-Initializing Spring embedded WebApplicationContext
+2022-08-28 18:21:44.947 INFO  restartedMain [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:?]-Root WebApplicationContext: initialization completed in 1191 ms
+2022-08-28 18:21:45.615 INFO  restartedMain [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer:?]-LiveReload server is running on port 35729
+2022-08-28 18:21:45.657 INFO  restartedMain [jdbc.audit:?]-null. DataSource.isWrapperFor(interface com.zaxxer.hikari.HikariConfigMXBean) returned 
+2022-08-28 18:21:45.657 INFO  restartedMain [jdbc.audit:?]-null. DataSource.unwrap(interface com.zaxxer.hikari.HikariConfigMXBean) returned 
+2022-08-28 18:21:45.784 INFO  restartedMain [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:?]-Tomcat started on port(s): 2001 (http) with context path ''
+2022-08-28 18:21:45.950 INFO  restartedMain [com.intern.system.SystemApplication:?]-Started SystemApplication in 2.612 seconds (JVM running for 3.49)
+2022-08-28 20:24:16.055 INFO  restartedMain [com.intern.system.SystemApplication:?]-Starting SystemApplication using Java 1.8.0_312 on MSI with PID 8884 (D:\program\intern\fourthProject\system\target\classes started by lo2 in D:\program\intern\fourthProject)
+2022-08-28 20:24:16.055 INFO  restartedMain [com.intern.system.SystemApplication:?]-The following 1 profile is active: "common"
+2022-08-28 20:24:16.105 INFO  restartedMain [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:?]-Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-08-28 20:24:16.105 INFO  restartedMain [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:?]-For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-08-28 20:24:16.869 INFO  restartedMain [org.springframework.data.repository.config.RepositoryConfigurationDelegate:?]-Multiple Spring Data modules found, entering strict repository configuration mode
+2022-08-28 20:24:16.871 INFO  restartedMain [org.springframework.data.repository.config.RepositoryConfigurationDelegate:?]-Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-08-28 20:24:16.893 INFO  restartedMain [org.springframework.data.repository.config.RepositoryConfigurationDelegate:?]-Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2022-08-28 20:24:17.395 INFO  restartedMain [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:?]-Tomcat initialized with port(s): 2001 (http)
+2022-08-28 20:24:17.404 INFO  restartedMain [org.apache.catalina.core.StandardService:?]-Starting service [Tomcat]
+2022-08-28 20:24:17.404 INFO  restartedMain [org.apache.catalina.core.StandardEngine:?]-Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-08-28 20:24:17.474 INFO  restartedMain [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:?]-Initializing Spring embedded WebApplicationContext
+2022-08-28 20:24:17.474 INFO  restartedMain [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:?]-Root WebApplicationContext: initialization completed in 1368 ms
+2022-08-28 20:24:18.127 INFO  restartedMain [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer:?]-LiveReload server is running on port 35729
+2022-08-28 20:24:18.172 INFO  restartedMain [jdbc.audit:?]-null. DataSource.isWrapperFor(interface com.zaxxer.hikari.HikariConfigMXBean) returned 
+2022-08-28 20:24:18.172 INFO  restartedMain [jdbc.audit:?]-null. DataSource.unwrap(interface com.zaxxer.hikari.HikariConfigMXBean) returned 
+2022-08-28 20:24:18.303 INFO  restartedMain [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:?]-Tomcat started on port(s): 2001 (http) with context path ''
+2022-08-28 20:24:18.467 INFO  restartedMain [com.intern.system.SystemApplication:?]-Started SystemApplication in 2.793 seconds (JVM running for 3.675)
+2022-08-28 22:41:10.294 INFO  restartedMain [com.intern.system.SystemApplication:?]-Starting SystemApplication using Java 1.8.0_312 on MSI with PID 4024 (D:\program\intern\fourthProject\system\target\classes started by lo2 in D:\program\intern\fourthProject)
+2022-08-28 22:41:10.295 INFO  restartedMain [com.intern.system.SystemApplication:?]-The following 1 profile is active: "common"
+2022-08-28 22:41:10.339 INFO  restartedMain [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:?]-Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-08-28 22:41:10.339 INFO  restartedMain [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:?]-For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-08-28 22:41:11.066 INFO  restartedMain [org.springframework.data.repository.config.RepositoryConfigurationDelegate:?]-Multiple Spring Data modules found, entering strict repository configuration mode
+2022-08-28 22:41:11.068 INFO  restartedMain [org.springframework.data.repository.config.RepositoryConfigurationDelegate:?]-Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-08-28 22:41:11.083 INFO  restartedMain [org.springframework.data.repository.config.RepositoryConfigurationDelegate:?]-Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2022-08-28 22:41:11.590 INFO  restartedMain [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:?]-Tomcat initialized with port(s): 2001 (http)
+2022-08-28 22:41:11.597 INFO  restartedMain [org.apache.catalina.core.StandardService:?]-Starting service [Tomcat]
+2022-08-28 22:41:11.598 INFO  restartedMain [org.apache.catalina.core.StandardEngine:?]-Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-08-28 22:41:11.667 INFO  restartedMain [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]:?]-Initializing Spring embedded WebApplicationContext
+2022-08-28 22:41:11.667 INFO  restartedMain [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:?]-Root WebApplicationContext: initialization completed in 1327 ms
+2022-08-28 22:41:12.300 INFO  restartedMain [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer:?]-LiveReload server is running on port 35729
+2022-08-28 22:41:12.483 INFO  restartedMain [org.springframework.boot.web.embedded.tomcat.TomcatWebServer:?]-Tomcat started on port(s): 2001 (http) with context path ''
+2022-08-28 22:41:12.652 INFO  restartedMain [com.intern.system.SystemApplication:?]-Started SystemApplication in 2.751 seconds (JVM running for 3.627)

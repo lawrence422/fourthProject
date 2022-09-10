@@ -2,7 +2,7 @@ package com.intern.logging.annotation.aspect;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.intern.common.dao.pojo.SystemLog;
+import com.intern.common.dao.SystemLog;
 import com.intern.logging.annotation.SystemLogger;
 import com.intern.logging.service.LoggingService;
 import org.aspectj.lang.JoinPoint;
@@ -38,7 +38,7 @@ public class SystemLoggerAspect {
 
     }
 
-    @Pointcut("execution(* com.intern..*.*(..))")
+    @Pointcut("execution(* com.intern..*.*(..))&& !@annotation(com.intern.logging.annotation.NoLogging)")
     public void logExceptionCut() {
 
     }

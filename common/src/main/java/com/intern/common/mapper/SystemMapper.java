@@ -1,6 +1,7 @@
 package com.intern.common.mapper;
 
-import com.intern.common.dao.pojo.UserProfile;
+
+import com.intern.common.dao.UserProfile;
 import com.intern.common.mapper.Sql.SystemMapperSql;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.SelectProvider;
