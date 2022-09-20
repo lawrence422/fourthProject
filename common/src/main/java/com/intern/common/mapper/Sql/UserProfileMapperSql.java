@@ -6,7 +6,7 @@ import org.apache.ibatis.annotations.Select;
 import org.apache.ibatis.jdbc.SQL;
 
 
-public class UserProfileSql {
+public class UserProfileMapperSql {
     public String checkUsernameExistSql(String username) {
         return new SQL() {{
             SELECT("count(*)");
