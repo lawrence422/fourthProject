@@ -1,6 +1,6 @@
 package com.intern.common.handler;
 
-import com.intern.common.dao.pojo.JsonResult;
+import com.intern.common.dto.JsonResult;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpStatus;

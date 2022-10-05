@@ -1,6 +1,6 @@
 package com.intern.system.service;
 
-import com.intern.common.dao.pojo.JsonResult;
+import com.intern.common.dto.JsonResult;
 import com.intern.common.dao.UserProfile;
 
 public interface SystemService {

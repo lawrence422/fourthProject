@@ -1,16 +1,13 @@
 package com.intern.system.controller;
 
-import com.intern.common.dao.pojo.JsonResult;
-import com.intern.common.dao.UserProfile;
+import com.intern.common.dto.JsonResult;
 import com.intern.logging.annotation.SystemLogger;
 import com.intern.system.service.SystemService;
-import com.intern.tools.utils.RandomUtil;
 import com.intern.tools.utils.RedisUtil;
 import com.intern.tools.utils.StringUtil;
 import io.swagger.annotations.Api;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.access.prepost.PreAuthorize;
-import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.web.bind.annotation.*;
 
 @Api( tags = {"test"})

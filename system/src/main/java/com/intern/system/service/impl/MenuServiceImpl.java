@@ -1,8 +1,7 @@
 package com.intern.system.service.impl;
 
-import com.intern.common.dao.Menu;
-import com.intern.common.dao.SystemLog;
-import com.intern.common.dao.pojo.JsonResult;
+import com.intern.common.dao.pojo.Menu;
+import com.intern.common.dto.JsonResult;
 import com.intern.common.mapper.MenuMapper;
 import com.intern.system.service.MenuService;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -2,7 +2,7 @@ package com.intern.security.service;
 
 
 
-import com.intern.common.dao.pojo.JsonResult;
+import com.intern.common.dto.JsonResult;
 import com.intern.common.dao.UserProfile;
 
 import java.util.Map;

@@ -1,4 +1,4 @@
-package com.intern.common.dao;
+package com.intern.common.dao.pojo;
 
 import lombok.Data;
 

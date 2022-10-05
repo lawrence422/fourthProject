@@ -1,6 +1,6 @@
 package com.intern.system.service.impl;
 
-import com.intern.common.dao.pojo.JsonResult;
+import com.intern.common.dto.JsonResult;
 import com.intern.common.dao.UserProfile;
 import com.intern.common.mapper.UserProfileMapper;
 import com.intern.common.variable.SystemVariable;

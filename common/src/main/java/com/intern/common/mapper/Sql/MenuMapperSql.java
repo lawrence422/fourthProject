@@ -1,6 +1,6 @@
 package com.intern.common.mapper.Sql;
 
-import com.intern.common.dao.Menu;
+import com.intern.common.dao.pojo.Menu;
 import org.apache.ibatis.jdbc.SQL;
 
 public class MenuMapperSql {

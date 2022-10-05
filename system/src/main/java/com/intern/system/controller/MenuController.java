@@ -1,7 +1,7 @@
 package com.intern.system.controller;
 
-import com.intern.common.dao.Menu;
-import com.intern.common.dao.pojo.JsonResult;
+import com.intern.common.dao.pojo.Menu;
+import com.intern.common.dto.JsonResult;
 import com.intern.logging.annotation.SystemLogger;
 import com.intern.system.service.MenuService;
 import io.swagger.annotations.Api;

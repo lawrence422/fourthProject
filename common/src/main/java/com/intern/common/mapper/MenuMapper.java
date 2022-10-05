@@ -1,6 +1,6 @@
 package com.intern.common.mapper;
 
-import com.intern.common.dao.Menu;
+import com.intern.common.dao.pojo.Menu;
 import com.intern.common.mapper.Sql.MenuMapperSql;
 import org.apache.ibatis.annotations.*;
 

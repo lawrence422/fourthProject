@@ -2,7 +2,7 @@ package com.intern.common.advice;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.intern.common.dao.pojo.JsonResult;
+import com.intern.common.dto.JsonResult;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.MethodParameter;
 import org.springframework.http.HttpStatus;

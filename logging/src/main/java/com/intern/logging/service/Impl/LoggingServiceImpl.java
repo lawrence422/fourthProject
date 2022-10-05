@@ -1,6 +1,6 @@
 package com.intern.logging.service.Impl;
 
-import com.intern.common.dao.SystemLog;
+import com.intern.common.dao.pojo.SystemLog;
 import com.intern.common.mapper.LoggingMapper;
 import com.intern.logging.service.LoggingService;
 import org.springframework.beans.factory.annotation.Autowired;

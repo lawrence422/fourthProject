@@ -1,4 +1,4 @@
-package com.intern.common.dao.pojo;
+package com.intern.common.dto;
 
 import lombok.Data;
 import org.springframework.http.HttpStatus;

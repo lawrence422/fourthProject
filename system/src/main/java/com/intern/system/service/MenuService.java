@@ -1,7 +1,7 @@
 package com.intern.system.service;
 
-import com.intern.common.dao.Menu;
-import com.intern.common.dao.pojo.JsonResult;
+import com.intern.common.dao.pojo.Menu;
+import com.intern.common.dto.JsonResult;
 @SuppressWarnings("rawtypes")
 public interface MenuService {
 

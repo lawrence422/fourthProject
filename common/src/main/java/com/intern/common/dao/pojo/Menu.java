@@ -1,4 +1,4 @@
-package com.intern.common.dao;
+package com.intern.common.dao.pojo;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;

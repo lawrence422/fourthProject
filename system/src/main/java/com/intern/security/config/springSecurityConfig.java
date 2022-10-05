@@ -1,7 +1,7 @@
 package com.intern.security.config;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.intern.common.dao.pojo.JsonResult;
+import com.intern.common.dto.JsonResult;
 import com.intern.security.filter.JwtAuthenticationFilter;
 import com.intern.security.handler.CustomLogoutHandler;
 import com.intern.security.service.impl.JwtServiceImpl;
